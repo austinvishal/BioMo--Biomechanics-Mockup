@@ -18,6 +18,8 @@ The video below shows a simple trajectory followed by 5-DOF shoulder joint showi
 
 [![Watch more trajectory videos](https://github.com/austinvishal/BioMo--Biomechanics-Mockup/blob/main/assets/humeralpointingkinematics.png)](https://github.com/austinvishal/BioMo--Biomechanics-Mockup/raw/main/assets/humeralabduction.mp4)
 
+<video src="https://github.com/austinvishal/BioMo--Biomechanics-Mockup/raw/main/assets/humeralabduction.mp4"></video>
+
 # Graphic Mockup
 
 A library of graphical and computational tools has been written in order to simplify the analysis and to provide a sophisticated and effective mockup. 
