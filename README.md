@@ -16,7 +16,7 @@ This repository describes kinematics of shoulder joint which is highly complex w
 
 The video below shows a simple trajectory followed by 5-DOF shoulder joint showing abduction/adduction motion which is viewed from a plane.
 
-[![Watch more trajectory videos](https://github.com/austinvishal/BioMo--Biomechanics-Mockup/blob/main/assets/humeralpointingkinematics.png)](https://github.com/austinvishal/BioMo--Biomechanics-Mockup/raw/main/assets/humeralabduction.mp4)
+[![Watch the video](https://github.com/austinvishal/BioMo--Biomechanics-Mockup/blob/main/assets/thumbnail.png)](https://youtu.be/kloMczLjRgw)
 
 
 # Graphic Mockup
